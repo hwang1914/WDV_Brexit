@@ -7,7 +7,7 @@ brexit.xlsx is an Excel document is our dataset resulted from NYTime_API.ipynb;
 
 Visualization_Brexit.ipynb is a Jupiter notebook (python 3) where we conduct data cleaning and data visualization;
 
-data_convert.xlsx is an Excel document we use to convert date from number format to date format in data cleaning;
+Data_Convert.xlsx is an Excel document we use to convert date from number format to date format in data cleaning;
 
 BrexitNahz.pptx is a Powerpoint slide we use to do presentation;
 
